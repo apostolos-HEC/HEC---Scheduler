@@ -1,0 +1,65 @@
+{
+    "projects": {
+        "HOW03": [
+            "CLO"
+        ],
+        "OW3": [
+            "Drums Unloading",
+            "Sheath Test Rostock"
+        ],
+        "Oresund2": [
+            "LJB Jointing"
+        ]
+    },
+    "employees": [
+        "APB",
+        "GIK",
+        "KOB",
+        "KOK",
+        "LER",
+        "PAP",
+        "THS"
+    ],
+    "site_periods": {
+        "HOW03|CLO": {
+            "start": "2026-05-02",
+            "end": "2026-05-10"
+        },
+        "OW3|Drums Unloading": {
+            "start": "2026-05-02",
+            "end": "2026-05-16"
+        },
+        "OW3|Sheath Test Rostock": {
+            "start": "2026-05-02",
+            "end": "2026-05-16"
+        }
+    },
+    "assignments": {
+        "HOW03|CLO|2026-05-02": "APB",
+        "HOW03|CLO|2026-05-03": "APB",
+        "HOW03|CLO|2026-05-04": "APB",
+        "HOW03|CLO|2026-05-05": "APB",
+        "HOW03|CLO|2026-05-06": "APB",
+        "HOW03|CLO|2026-05-07": "APB",
+        "HOW03|CLO|2026-05-08": "APB",
+        "HOW03|CLO|2026-05-09": "APB",
+        "HOW03|CLO|2026-05-10": "APB",
+        "OW3|Drums Unloading|2026-05-08": "GIK",
+        "OW3|Drums Unloading|2026-05-09": "GIK",
+        "OW3|Drums Unloading|2026-05-10": "GIK",
+        "OW3|Drums Unloading|2026-05-11": "THS",
+        "OW3|Drums Unloading|2026-05-12": "THS",
+        "OW3|Drums Unloading|2026-05-13": "THS",
+        "OW3|Drums Unloading|2026-05-14": "THS",
+        "OW3|Drums Unloading|2026-05-15": "THS",
+        "OW3|Drums Unloading|2026-05-16": "THS"
+    },
+    "employee_leaves": {
+        "KOB": [
+            {
+                "start": "2026-04-28",
+                "end": "2026-04-30"
+            }
+        ]
+    }
+}
